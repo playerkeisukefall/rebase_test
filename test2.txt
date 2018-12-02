@@ -1,3 +1,4 @@
 test2
 rebase で編集。
 masterで編集
+r_c ブランチで編集。
